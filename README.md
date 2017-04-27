@@ -41,9 +41,10 @@ const { should } = require('chai');  // Using Should style
 In this project i have used **expect**.
 
 ## Getting Started  
+*type in cmd:*
 
 ```  
-1. git clone https://github.com/SoffKub/Geometry-calculator
+1. git clone https://github.com/SoffKub/GeometryCalculator
 2. npm install 
 3. npm install mocha
 4. Choose your assertion libraries; npm install chai
